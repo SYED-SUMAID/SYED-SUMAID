@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Syed%20Sumaid%20Altaf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Sumaid%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 ### From Linux terminals to ML pipelines — building the infrastructure that makes intelligent systems run.
 
